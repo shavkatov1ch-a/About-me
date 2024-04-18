@@ -1,0 +1,13 @@
+HTTrack3.49-4+libhtsjava.so.2 launched on Mon, 15 Apr 2024 19:03:47 at https://preview.colorlib.com/theme/ronaldo/
+(httrack https://preview.colorlib.com/theme/ronaldo/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:04:55	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/ronaldo/blog.html (from https://preview.colorlib.com/theme/ronaldo/single.html)
+19:04:55	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/ronaldo/images/image_4.jpg (from https://preview.colorlib.com/theme/ronaldo/single.html)
+
+HTTrack Website Copier/3.49-4 mirror complete in 1 minutes 8 seconds : 66 links scanned, 63 files written (7655502 bytes overall) [5714205 bytes received at 84032 bytes/sec], 3023126 bytes transferred using HTTP compression in 43 files, ratio 34%, 33.0 requests per connection
+(2 errors, 0 warnings, 0 messages)
